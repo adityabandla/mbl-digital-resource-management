@@ -1,1 +1,1 @@
-# mbl-lab-server
+# MBL Digital Resource Management
